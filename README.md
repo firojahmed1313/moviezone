@@ -50,6 +50,9 @@ Javascript, HTML, CSS, reactjs...
 [Video](https://drive.google.com/file/d/1_qS8-TyR1OTr0GucHTM47HTytEtP5RNu/view?usp=sharing)
 
 
+
+ 
+
 ## Lessons Learned
 
 Front-end Development: I learned how to create a user-friendly interface using HTML, CSS, and JavaScript to collect movie details from users through a form.
@@ -118,6 +121,8 @@ To deploy this project run
 
 If you have any feedback, please reach out to us at firozahmed3052000@gmail.com
 
+### Badges
+[![@firojahmed1313's Holopin board](https://holopin.me/@firojahmed1313)](https://holopin.io/@firojahmed1313)
 
 # Getting Started with Create React App
 
