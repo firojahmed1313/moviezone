@@ -121,7 +121,11 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://www.linkpicture.com/q/frontpage.png)
+![App Screenshot](https://www.linkpicture.com/q/playlist_1.png)
+![App Screenshot](https://www.linkpicture.com/q/video.png)
+![App Screenshot](https://www.linkpicture.com/q/admin_5.png)
+![App Screenshot](https://www.linkpicture.com/q/crud_1.png)
 
 
 ## Feedback
