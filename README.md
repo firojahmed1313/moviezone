@@ -8,7 +8,7 @@
 
 
 
-# MOVIEZONE
+# MOVIEZONE 
 
 -> Landing page(recommendation section)
 
@@ -26,7 +26,10 @@
 
  -> use redux for API data management
 
-
+## [Deployment/Host website link](https://moviezonereactapp.netlify.app/)
+ admin username : admin
+ 
+ admin password : admin
 
 ## Authors
 
