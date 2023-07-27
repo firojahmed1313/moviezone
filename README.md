@@ -51,6 +51,10 @@ Javascript, HTML, CSS, reactjs...
 
 
 
+
+https://github.com/firojahmed1313/moviezone/assets/74416772/51410794-ffdb-4e52-a282-43a41942c3f8
+
+
  
 
 ## Lessons Learned
