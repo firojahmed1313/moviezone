@@ -14,11 +14,11 @@ function Navber() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary -mt-2">
       <Container className="imgs">
-        <Navbar.Brand href="/"><img src={companyLogo} alt="logo"/></Navbar.Brand>
+        <Navbar.Brand href="/moviezone"><img src={companyLogo} alt="logo"/></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto navbar" >
-            <NavLink className="navlinkstyle" to="/">Home </NavLink>
+            <NavLink className="navlinkstyle" to="/moviezone">Home </NavLink>
             <NavLink className="navlinkstyle" to="/cart">PlayList</NavLink>
             
             
