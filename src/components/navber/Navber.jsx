@@ -24,11 +24,11 @@ function Navber() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary -mt-2">
       <Container className="imgs">
-        <Navbar.Brand href="/"><img src={companyLogo} alt="logo"/></Navbar.Brand>
+        <Navbar.Brand href="/moviezone"><img src={companyLogo} alt="logo"/></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto nav" >
-            <NavLink  to="/"><button className='navlinkstyle' >Home</button> </NavLink>
+            <NavLink  to="/moviezone"><button className='navlinkstyle' >Home</button> </NavLink>
             <NavLink  to="/cart"><button className='navlinkstyle' >PlayList<button className='choto' >{result.length}</button></button></NavLink>
             <Header/>
           </Nav>
