@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./table.css";
-import "../pages/admind/admind.css";
+//import "../pages/admind/admind.css";
 import Button from "@mui/material/Button";
 import axios from "axios";
 import MovieForm from "./MovieFrom";

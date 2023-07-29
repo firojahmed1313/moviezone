@@ -59,7 +59,7 @@ const Cardsection = () => {
       </Button>
       <h1 className="extramargin">Playlist Page</h1>
       <div className="tablede">
-        <TableContainer component={Paper} sx={{ maxWidth: "60%" }}>
+        <TableContainer className="tableContainer" component={Paper} sx={{ Width: "60%" }}>
           <Table sx={{ maxWidth: "100%" }} aria-label="customized table">
             <TableHead>
               <TableRow>

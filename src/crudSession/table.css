@@ -1,4 +1,5 @@
 .contaner{
+  /*border: 2px solid red;*/
     background: wheat;
     height: 100vh;
     width: 100%;
@@ -6,6 +7,8 @@
     
 }
 .tableContener {
+  /*border: 2px solid blue;*/
+
   margin-left: 10px;
   width: 70%;
   margin: auto;
@@ -16,8 +19,8 @@
   width: min-content;
   margin-left: 20px;
   position: relative; /* 2 */
-  top: 50%; /* 3 */
-  transform: translate(0, -50%); /* 4 */
+  top: 10%; /* 3 */
+  
 }
 .input {
   display: flex;
@@ -26,4 +29,24 @@
   justify-content: center;
   margin-bottom: 30px;
   margin: 50px;
+}
+
+@media only screen and (max-width:900px){
+  .contaner{
+    flex-direction: column;
+    height: fit-content;
+    margin-top: 0%;
+
+  }
+  .tableContener {
+    width: 90%;
+    margin: 30px auto;
+    height: fit-content;
+  }
+  .signin{
+    margin: 30px auto;
+    
+    height: fit-content;
+  }
+
 }

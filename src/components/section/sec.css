@@ -8,7 +8,7 @@
   margin-bottom: 20px;
 }
 .tablede{
- /* border: 2px solid black;*/
+ /*border: 2px solid black;*/
   width: 90%;
   display: flex;
   margin: auto;
@@ -60,4 +60,26 @@
     margin-left: 20px;
     text-align: start;
     align-items: start;
+}
+
+@media only screen and (max-width:800px){
+
+  .tablede{
+      flex-direction: column;
+      
+  }
+  .tableContainer{
+    width : fit-content;
+    /*border: 2px solid blue;*/
+    margin: auto;
+
+
+  }
+  .cart-page-container{
+    margin-top: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 }

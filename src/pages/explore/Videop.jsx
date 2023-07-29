@@ -44,6 +44,7 @@ const Videop = () => {
             width="90%"
             height="80vh"
             margin="auto"
+            className="videohw"
           />
         </div>
 

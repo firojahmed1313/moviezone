@@ -6,13 +6,17 @@
     display: flex;
     flex-direction: column;
 }
-.contaner{
-    /*border: 2px solid blue;*/
+.admincontaner{
+
+    border: 2px solid blue;
+    background: wheat;
 
     height: 100vh;
     width: 100%;
     display: flex;  
     flex-direction: row;  
+    
+
 }
 .Adminsignin{
     margin: auto;
@@ -36,4 +40,11 @@
     margin-left: 20px;
     text-align: start;
     align-items: start;
+}
+
+@media only screen and (max-width:800px){
+    MainContaner{
+        height: fit-content;
+
+    }
 }

@@ -40,6 +40,7 @@ const Tabledata = ({ movies, onDeleteMovie, onEditMovie }) => {
         <TableContainer
           component={Paper}
           sx={{ maxWidth: "100%", height: "400px", margin: "auto" }}
+          
         >
           <Table sx={{ maxWidth: "100%" }} aria-label="customized table">
             <TableHead>
