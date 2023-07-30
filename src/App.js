@@ -16,6 +16,7 @@ function App() {
       
         
         <Routes>
+          <Route exact path="/" element={<Home />} />
           <Route exact path="/moviezone" element={<Home />} />
           <Route path="/cart" element={<Details />} />
           <Route path="/admin" element={<Admind />} />
