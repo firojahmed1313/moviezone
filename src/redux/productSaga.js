@@ -3,6 +3,7 @@ import { PRODUCT_LIST,SEARCH_MOVIES,CATAGORY_PRODUCT, CATAGORY_MOVIES, SEARCH_PR
 import movieData from './movie.json';
 
 
+
 function* getProducts() {
     console.log("firoj3")
 
@@ -13,7 +14,9 @@ function* getProducts() {
         console.warn(error)
     }
     
+    
 }
+
 
 function* searchProducts(searchTerm) {
     //console.log(data)

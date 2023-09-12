@@ -20,7 +20,7 @@ const Main = () => {
   let movies = useSelector((state) => state.movies.filteredMovies);
   
   console.warn("data in main component", movies);
-
+  console.log("data in main", typeof(movies));
   useEffect(() => {
     console.log("firoj1")
     dispatch(productList());

@@ -4,7 +4,7 @@ import Button from '@mui/material/Button';
 const error404 = () => {
   return (
     <>
-      <Button variant="outlined" href="/moviezone">Home</Button>
+      <Button variant="outlined" href="/">Home</Button>
       <div class="wrapper">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
           <title>404</title>
